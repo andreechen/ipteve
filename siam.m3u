@@ -1,103 +1,275 @@
-#EXTM3U x-tvg-url="https://weareblahs.github.io/epg/mytv.xml" url-tvg="https://weareblahs.github.io/epg/compressed/mytv.xml.gz" refresh="1440" max-conn="1" refresh="24"
-
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="101" tvg-id="101" tvg-chno="101" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/101.png",TV1
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8|Referer=https://rtmklik.rtm.gov.my
-
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="102" tvg-id="102" tvg-chno="102" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/102.png",TV2
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
-
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV3.m3u8|Referer=https://www.dailymotion.com
-
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/Drama_Sangat.m3u8|Referer=https://www.dailymotion.com
-
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="107" tvg-id="107" tvg-chno="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/147.png",DidikTV KPM
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8|Referer=https://www.dailymotion.com
-
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8|Referer=https://www.dailymotion.com
-
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9
-https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/TV9.m3u8|Referer=https://www.dailymotion.com
-
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="110" tvg-id="110" tvg-chno="110" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/146.png",OKEY
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik.rtm.gov.my
-
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="111" tvg-id="111" tvg-chno="111" tvg-logo="https://i.ibb.co/JcTZMLX/image.png",Sukan RTM
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Sukanrtm.m3u8|Referer=https://rtmklik.rtm.gov.my
-
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="113" tvg-id="113" tvg-chno="113" tvg-logo="https://i.ibb.co/vHcWdsP/image.png",TV6
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TV6rtm.m3u8|Referer=https://rtmklik.rtm.gov.my
-
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="120" tvg-id="120" tvg-chno="120" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/120.png",GO Shop MYTV
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/GShopMY.m3u8
-
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="121" tvg-id="121" tvg-chno="121" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/502.png",Bernama
-https://weareblahs.github.io/yttestlabs/youtube.m3u
-
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="122" tvg-id="122" tvg-chno="122" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/122.png",TVS
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/TVSwak.m3u8
-
-#EXTINF:-1 group-title="MYTV Broadcasting: TV" ch-number="123" tvg-id="123" tvg-chno="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg",Berita RTM
-https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8|Referer=https://rtmklik.rtm.gov.my
-
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani HD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501_300.png" group-title="News",Astro Awani HD
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
-
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="Astro Awani SD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/501_300.png" group-title="News",Astro Awani SD
-https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-id="BernamaTV.my" tvg-name="Bernama TV" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png" group-title="News",Bernama TV
-http://50.7.161.82:8278/streams/d/Bernama/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AstroArena.my" tvg-name="Astro Arena HD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_300.png" group-title="Sports",Astro Arena HD
-http://185.180.221.194:8278/streams/d/Arena/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AstroCeria.my" tvg-name="Astro Ceria" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/611_300.png" group-title="Kids",Astro Ceria
-http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AstroOasis.my" tvg-name="Astro Oasis" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/106_300.png" group-title="Islamic",Astro Oasis
-http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="Astro Prima" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/105_300.png" group-title="General",Astro Prima
-http://185.180.221.194:8278/streams/d/Prima/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Hello.my" tvg-name="Hello HD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="General",Hello HD
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6.m3u8
-
-#EXTINF:-1 tvg-id="Hello.my" tvg-name="Hello SD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_300.png" group-title="General",Hello SD
-https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
-
-#EXTINF:-1 tvg-id="Naura.my" tvg-name="Naura SD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_300.png" group-title="Islamic",Naura SD
-http://50.7.161.82:8278/streams/d/Naura/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVS.my" tvg-name="TVS SD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_300.png" group-title="General",TVS SD
-https://agsplayback01.astro.com.my/CH1/master_AGS_TVS.m3u8
-
-#EXTINF:-1 tvg-id="TVAlhijrah.my" tvg-name="TV Alhijrah" tvg-country="MY" tvg-language="Malay" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/114_300.png" group-title="General",TV Alhijrah
-http://50.7.161.82:8278/streams/d/Alhijrah/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVIkim.my" tvg-name="TV Ikim HD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="General",TV Ikim HD
-http://edge.vediostream.com/abr/tvikim/live/tvikim_source/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TVIkim.my" tvg-name="TV Ikim SD" tvg-country="MY" tvg-language="Malay" tvg-logo="https://i.imgur.com/Z0dyJK7.jpg" group-title="General",TV Ikim SD
-http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AstroAOD.my" tvg-name="Astro AOD HD" tvg-country="MY" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/311_300.png" group-title="General",Astro AOD HD
-http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AstroQuanJiaHD.my" tvg-name="Astro Quan Jia HD" tvg-country="MY" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/308_300.png" group-title="General",Astro Quan Jia HD
-http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8https
-
-#EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-name="Astro Shuang Xing HD" tvg-country="MY" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/307_300.png" group-title="General",Astro Shuang Xing HD
-http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AstroHuaHeeDai.my" tvg-name="Astro Hua Hee Dai HD" tvg-country="MY" tvg-language="Chinese" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/333_300.png" group-title="General",Astro Hua Hee Dai HD
-http://185.180.221.194:8278/streams/d/Huahee/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil HD" tvg-country="MY" tvg-language="Tamil" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="General",Astro Vaanavil HD
-https://agsplayback01.astro.com.my/CH3/master_VAANGOSHOP5.m3u8
-
-#EXTINF:-1 tvg-id="AstroVaanavil.my" tvg-name="Astro Vaanavil SD" tvg-country="MY" tvg-language="Tamil" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/201_300.png" group-title="General",Astro Vaanavil SD
-https://agsplayback01.astro.com.my:443/CH3/master_VAANGOSHOP5_04.m3u8
+#EXTM3U
+#EXTINF:60,ABNsat
+http://rtmp1.abnsat.com/hls/arabic.m3u8?checkedby:iptvcat.com
+#EXTINF:0,HAWAS TV (1280×720)
+https://jmc-live.ercdn.net/hawastvhd/hawastvhd_720p.m3u8?checkedby:iptvcat.com
+#EXTINF:0,AJYAL TV (1920×1080)
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0,AL HAYAT (1280×720)
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,EG | Al Horreya
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,AL KARMA TV (1920×1080)
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Al Kass Sports
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1&checkedby:iptvcat.com
+#EXTINF:0,Al Kass Two
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2&checkedby:iptvcat.com
+#EXTINF:0,Al Kass Sports 3
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3&checkedby:iptvcat.com
+#EXTINF:0,Al Kass Five
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5&checkedby:iptvcat.com
+#EXTINF:0,AL MAMLAKA TV (1920×1080)
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Sharqiya from Kalba TV
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Al Khalij TV (1280×720)
+http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CHANNEL 4 TEEN (1920×1080)
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,DUBAI ONE (1920×1080)
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,DUBAI RACING 1 (1920×1080)
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,DUBAI RACING 2 (1920×1080)
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,DUBAI RACING 3 (1920×1080)
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,DUBAI SPORTS 1 (1920×1080)
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,SPORT | Dubai Sports 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,DUBAI SPORTS 3 (1920×1080)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,M24 (1280×720)
+http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,MEKAMELEEN TV (1920×1080)
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,MTA 3 (1920×1080)
+http://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,PALESTINIAN TV (1920×1080)
+http://51.255.84.28:8081/palestiniantv_source/live/chunks.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Sharjah TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,SKY NEWS ARABIA (1280×720)
+https://stream.skynewsarabia.com/hls/sna.m3u8?checkedby:iptvcat.com
+#EXTINF:0,SYRIA TV (1920×1080)
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,WATAR (1280×720)
+http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ZAGROS TV (1280×720)
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:33,ZEE ALWAN (1280×720)
+http://ns8.indexforce.com:1935/home/mystream/chunklist_w761777562.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ZEE ALWAN (1280×720)
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/chunklist_w199117921.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ZEE ALWAN (1280×720)
+http://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ZEE ALWAN (1280×720)
+http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8?v=1986288541&checkedby:iptvcat.com
+#EXTINF:0,CNA (1080p) [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.cna.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,All Sports
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8?checkedby:iptvcat.com
+#EXTINF:0,BeritaSatu
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,BeritaSatu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?checkedby:iptvcat.com
+#EXTINF:0,BeritaSatu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_320x240.m3u8?checkedby:iptvcat.com
+#EXTINF:0,BeritaSatu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8?checkedby:iptvcat.com
+#EXTINF:26,CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:28,CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CNBC Indonesia 1
+http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8?checkedby:iptvcat.com
+#EXTINF:0,GTV (720p)
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TVRI
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TVRI Jawa Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TVRI Kanal 3
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:6,RCTI (720p)
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8?checkedby:iptvcat.com
+#EXTINF:0,RRI Net
+http://36.89.47.217:11935/rrinet/live/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Radio 51 TV
+http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TVKU
+http://103.30.1.14:8080/hls/live.m3u8?checkedby:iptvcat.com
+#EXTINF:30,TVRI (Opt-3)
+http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com&checkedby:iptvcat.com
+#EXTINF:0,TVRI Jawa Barat
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TVRI Jawa Tengah
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATENGSEMARANG)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TVRI Jawa Timur
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TVRI Nasional
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TVRI Yogyakarta
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,iNews
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1537200=6-mp4a_64000_eng=2.m3u8?checkedby:iptvcat.com
+#EXTINF:29,Arirang HD
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Arirang HD
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,BBS Buddhist Broadcasting
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8?checkedby:iptvcat.com
+#EXTINF:0,BBS Buddhist Broadcasting
+http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CBS
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CBS
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CBS
+http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,GCN
+http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Gugbang TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,KBS LiveCam DokDo
+http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,MTN
+http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,NBS Korea Agricultural Broadcasting
+https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TVWorkNet
+http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,YTN DMB
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,YTN SCIENCE
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8?checkedby:iptvcat.com
+#EXTINF:0,YTN SCIENCE
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,AT-X
+https://sub2.neetball.net/live/neet.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Animax Japan (Indonesian Subs)
+http://210.210.155.35/dr9445/h/h144/01.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Animax Japan (Vietnamese Subs)
+https://livecdn.fptplay.net/hda3/animaxport_2000.stream/.m3u8?checkedby:iptvcat.com
+#EXTINF:0,CGNTV Japan
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,GSTV
+https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,MX Live (Webcam)
+https://movie.mcas.jp/mcas/mx_live_2/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,NHK 华语视界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,NHK World Japan (1080p)
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,NJPW World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8?checkedby:iptvcat.com
+#EXTINF:0,QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TBS
+https://tbs.mov3.co/hls/tbs.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Tokyo MX1
+https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Tokyo MX1
+https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Tokyo MX2
+https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Tokyo MX2
+https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Weather News
+http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Weather News
+https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,WeatherNews
+http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ウェザーニュース
+http://movie.mcas.jp/mcas/wn1_2/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,日本购物1
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,日本购物2
+http://stream1.shopch.jp/HLS/out2/prog_index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,日本购物3
+http://stream1.shopch.jp/HLS/out3/prog_index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,日本购物4
+http://stream1.shopch.jp/HLS/out4/prog_index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ABC AU
+https://c.mjh.nz/101002210221/?checkedby:iptvcat.com
+#EXTINF:0,ABC Kids
+https://c.mjh.nz/101002210222/?checkedby:iptvcat.com
+#EXTINF:0,ABC Me
+https://c.mjh.nz/101002210224/?checkedby:iptvcat.com
+#EXTINF:0,Ausbiz TV
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Bloomberg Australia
+https://liveprodapnortheast.akamaized.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-440-1_live.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Bloomberg TV Australia
+https://liveprodapnortheast.global.ssl.fastly.net/oz1/Channel-OZTVqvs-AWS-tokyo-1/Source-OZTVqvs-1000-1_live.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Expo Channel
+http://tvsn-i.akamaihd.net/hls/live/261837/expo/expo_750.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Expo Channel
+https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Fox Sports News
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Sky News Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,Sky News Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0,TVSN
+https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8?checkedby:iptvcat.com
+#EXTINF:0,ausbiz TV (720p) [Geo-blocked]
+https://i.mjh.nz/au/Sydney/tv.7ausbiz.m3u8?checkedby:iptvcat.com
+#EXTINF:155,Androidrepublica
+https://bit.ly/seOnlyla
+#EXTINF:30,Makkah TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+#EXTINF:0,Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0,tvN Movies
+http://210.210.155.35/dr9445/h/h21/01.m3u8
+#EXTINF:0,Kplus
+http://rr.dens.tv/h/h08/index.m3u8
+#EXTINF:0,Star Movies HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0,Tring Action Movie 1
+http://93.157.62.180/TringAction/index.m3u8
+#EXTINF:0,MIX HOLLYWOOD
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:0,MY Cinema
+http://210.210.155.35/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF:0,Cinema Movies
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_4000p.xs
+#EXTINF:0,Movie Sphere
+https://moviesphere-plex.amagi.tv/playlist.m3u8
+#EXTINF:0,Astrosports 2
+http://iptv.tvmalaysia.cc/jalan8/jalan8/6710
+#EXTINF:0,Astrosports 3
+http://iptv.tvmalaysia.cc/jalan8/jalan8/6711
+#EXTINF:0,BT Sport HD 2
+http://iptv.tvmalaysia.cc/jalan8/jalan8/6611
+#EXTINF:0,BT Sport HD 3
+http://iptv.tvmalaysia.cc/jalan8/jalan8/6612
+#EXTINF:0,Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0,WWE Network
+http://iptv.tvmalaysia.cc/jalan8/jalan8/6849
+#EXTINF:0,Sky 1 Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
+#EXTINF:0,Sky 2 Racing
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
+#EXTINF:0,Rugby World TV
+https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+#EXTINF:0,THR GEGAR
+http://astro3.rastream.com/gegar?type=.flv&_=0.25499305268749595
